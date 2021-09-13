@@ -1,0 +1,19 @@
+:root{
+    --skin-color : #fb839e;
+}
+
+
+@import "skins/color-1.scss";
+@import "components/global";
+@import "components/styler-switcher";
+@import "components/header";
+@import "components/nav-menu";
+@import "components/home-section";
+@import "components/about-section";
+@import "components/service";
+@import "components/portfolio";
+@import "components/testimonial";
+@import "components/contact";
+@import "components/mediaquery";
+
+
